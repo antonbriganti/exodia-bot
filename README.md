@@ -13,7 +13,7 @@ the main character of the yugioh anime, Yugi, had the set in his deck, alongside
 ### what did the bot do?
 the bot (now dead/deleted) used to "draw" five cards from Yugi's deck, trying to draw all five Exodia cards at once, immediately winning before the game starts.
 
-it would draw one hand twice a day, posting an image of the five cards that are drawn. the hands would always be drawn from a "fresh" deck.
+it would draw one hand once every thirty minutes, posting an image of the five cards that are drawn. the hands would always be drawn from a "fresh" deck.
 
 ### what does this script do?
 this script recreates the behaviour of the bot but without any time delay. it exists primarily as a way to see how soon it would take the bot to actually draw all five cards. now with the bot dead, it's now also the only way to really chase the RNG thrill.
