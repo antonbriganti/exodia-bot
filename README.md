@@ -1,6 +1,8 @@
 # exodia_bot
 basic recreation of https://www.facebook.com/ExodiaBot0005/
 
+this isn't a very serious repo, pls don't judge my coding skills based on this.
+
 ## background/explanation
 ### what is Exodia? where does it come from?
 Exodia is a set of five cards from [yugioh, a collectable card game](https://en.wikipedia.org/wiki/Yu-Gi-Oh!_Trading_Card_Game). when you get all five cards in your hand, you immediately win the game, which is usually won by reducing the opponent's life points down to 0. 
