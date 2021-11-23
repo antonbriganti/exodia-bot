@@ -13,6 +13,7 @@ def create_deck_from_file(file_location):
 
 def print_results(tally, total_hands_drawn):
     print()
+    print("-- results --")
     print("total hands drawn :", total_hands_drawn)
     print("it would take", total_hands_drawn/2, "hours to draw get this hand")
     print("that's", total_hands_drawn/2/24/7/52, "years")
@@ -37,7 +38,7 @@ while True:
     
     if amount_of_exodia_cards_drawn == 4 and 'Sangan' in hand:
         exodia_hands_draw_tally["sangan + 4"] += 1
-        print("drew sangan+4 on hand", total_hands_drawn, "using hand", hand)
+        print("drew sangan+4 on hand", total_hands_drawn, "using hand", hand, " -- ", total_hands_drawn/2, "hours /", total_hands_drawn/2/24/7/52, "years")
     
     if amount_of_exodia_cards_drawn == 5:
         break
